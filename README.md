@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-chica-de-la-estacion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for La chica de la estación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-chica-de-la-estacion/) |
+| **Get License** | [Get License For La chica de la estación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-chica-de-la-estacion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, tú tienes ese fuego que me quita la razón
+> Bailando sola en el medio, la dueña de la estación
+> Tus ojos me llaman de lejos, me suben la pulsación
+> Buscando nuestra ocasión, no escondas la tentación
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
