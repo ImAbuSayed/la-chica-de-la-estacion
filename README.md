@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-chica-de-la-estacion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For La chica de la estación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-chica-de-la-estacion/) |
+| **Get License** | [Obtain a Music License for La chica de la estación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-chica-de-la-estacion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2a9eddaea57dddfeb9e15ca52f8abdd862c8f7e0115551f124932a92dd037101` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - La chica de la estación
+
+This log tracks the cryptographic history and versioning for the song **La chica de la estación** (la-chica-de-la-estacion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:58:52.781273 | `v1` | `2a9eddaea57dddfeb9e15ca52f8abdd862c8f7e0115551f124932a92dd037101` | `b8e3942208d617d0c43acb6b3dffd657afbb63e23c56844a70a39f6d2ea26547` | `2026-06-14_la-chica-de-la-estacion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
